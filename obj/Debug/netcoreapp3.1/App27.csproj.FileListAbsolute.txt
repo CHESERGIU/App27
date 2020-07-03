@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.exe
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.deps.json
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.runtimeconfig.json
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.dll
+C:\Users\sergi\source\repos\App27\bin\Debug\netcoreapp3.1\App27.pdb
+C:\Users\sergi\source\repos\App27\obj\Debug\netcoreapp3.1\App27.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App27\obj\Debug\netcoreapp3.1\App27.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App27\obj\Debug\netcoreapp3.1\App27.dll
+C:\Users\sergi\source\repos\App27\obj\Debug\netcoreapp3.1\App27.pdb
